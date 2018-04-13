@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1523637397 source:c:\users\abrinoli_mecon\dropbox\facultad - estudio\inicio tecnicatura superior en programación\laboratoio de programacion 1\prog_y_lab_i\tp01\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"funciones.h"
+	<float.h>
+
+1523645534 c:\users\abrinoli_mecon\dropbox\facultad - estudio\inicio tecnicatura superior en programación\laboratoio de programacion 1\prog_y_lab_i\tp01\funciones.h
+
+1523637607 source:c:\users\abrinoli_mecon\dropbox\facultad - estudio\inicio tecnicatura superior en programación\laboratoio de programacion 1\prog_y_lab_i\tp01\funciones.c
+	"funciones.h"
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1523334433 source:c:\users\administrador\dropbox\facultad - estudio\inicio tecnicatura superior en programación\laboratoio de programacion 1\prog_y_lab_i\tp01\funciones.c
+	"funciones.h"
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1523334433 c:\users\administrador\dropbox\facultad - estudio\inicio tecnicatura superior en programación\laboratoio de programacion 1\prog_y_lab_i\tp01\funciones.h
+
+1523334433 source:c:\users\administrador\dropbox\facultad - estudio\inicio tecnicatura superior en programación\laboratoio de programacion 1\prog_y_lab_i\tp01\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"funciones.h"
+
+1523321398 source:c:\test\tp01\funciones.c
+	"funciones.h"
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1523321398 c:\test\tp01\funciones.h
+
+1523321398 source:c:\test\tp01\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"funciones.h"
+
